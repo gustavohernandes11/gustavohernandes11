@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, meu nome é Gustavo Hernandes, tenho grande apreço pelo desenvolvimento web. Atualmente estou estudando Typescript, CMS Strapi, e C#, além de sempre estar procurando ser um desenvolvedor melhor, com boas práticas de programação e padrões de projetos.
+Olá, meu nome é Gustavo Hernandes, tenho grande apreço pelo desenvolvimento web. Atualmente estou estudando Typescript, CMS Strapi, e Elixir, além de sempre estar procurando ser um desenvolvedor melhor, com boas práticas de programação e padrões de projetos.
 
 
 ## 🌐 Socials:
