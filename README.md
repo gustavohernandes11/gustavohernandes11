@@ -34,6 +34,5 @@ Olá, me chamo Gustavo Hernandes da Silva, estou me graduando em Engenharia de P
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=gustavohernandes11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohernandes11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
