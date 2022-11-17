@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá, meu nome é Gustavo Hernandes, tenho grande apreço pelo desenvolvimento web. Atualmente estou estudando Typescript, CMS Strapi, e Elixir, além de sempre estar procurando ser um desenvolvedor melhor, com boas práticas de programação e padrões de projetos.
+Olá, me chamo Gustavo Hernandes da Silva, estou me graduando em Engenharia de Produção. A programação para mim começou como um hobby, mas hoje é o meu dia a dia, especialmente a programação para WEB. Busco ser um desenvolvedor cada vez melhor com boas práticas de escrita de código, padrões de projetos e estudos sobre assuntos que vão além dos pontos e virgulas escritos num editor.
 
 
 ## 🌐 Socials:
@@ -22,13 +22,16 @@ Olá, meu nome é Gustavo Hernandes, tenho grande apreço pelo desenvolvimento w
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+## Ferramentas:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gustavohernandes11&theme=dark&hide_border=false)<br/>
