@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-Olá, me chamo Gustavo Hernandes da Silva, estou me graduando em Engenharia de Produção. A programação para mim começou como um hobby, mas hoje é o meu dia a dia, especialmente a programação para WEB. Busco ser um desenvolvedor cada vez melhor com boas práticas de escrita de código, padrões de projetos e estudos sobre assuntos que vão além dos pontos e virgulas escritos num editor.
+Olá, me chamo Gustavo Hernandes da Silva. 👋
+Estou me graduando em Engenharia de Produção enquanto estudo programação de forma autônoma. Estou disposto a contribuir com projetos bacanas.
 
 
 ## 🌐 Socials:
