@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 Olá, me chamo Gustavo Hernandes da Silva. 👋
+
 Estou me graduando em Engenharia de Produção enquanto estudo programação de forma autônoma. Estou disposto a contribuir com projetos bacanas.
 
 
