@@ -2,7 +2,7 @@
   
 ### Olá! Me chamo Gustavo Hernandes da Silva. 👋
 
-Programador autônomo com background em Engenharia de Produção.
+Programador autônomo com conhecimentos em engenharia de produção.
 <hr>
 
 #### Tech Stack
