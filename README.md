@@ -2,7 +2,7 @@
 
 # Hey! I'm Gustavo Hernandes da Silva. 👋
 
-Web developer with backend in Production Engineering
+Web developer with background in Production Engineering
 <hr>
 
 ## Tools
