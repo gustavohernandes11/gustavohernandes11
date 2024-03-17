@@ -1,9 +1,8 @@
-<div align='center'>
+<div align='start'>
 
-# Hi! I'm Gustavo Hernandes da Silva. 👋
+# Hey! I'm Gustavo Hernandes da Silva. 👋
 
-Programmer with background in production engineering.
-
+Web developer with backend in Production Engineering
 <hr>
 
 ## Tools
